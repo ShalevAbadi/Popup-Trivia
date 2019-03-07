@@ -44,7 +44,6 @@ def place_window(window):
 
 
 def set_window_title_bar(window):
-    #Icons made by https://www.freepik.com www.flaticon.com is licensed by http://creativecommons.org/licenses/by/3.0/ Creative Commons BY 3.0
     window.title('Popup_Trivia')
     window.iconbitmap('question.ico')
 
